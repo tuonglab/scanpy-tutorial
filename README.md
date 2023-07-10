@@ -1,4 +1,5 @@
 # ScanPy Setup and Tutorial
+Clone repo
 
 Ensure you have python 3.6 or higher installed. Setup your virtual environment using anaconda or python.
 
@@ -16,4 +17,4 @@ Then,
 
 `pip install -r requirements.txt`
 
-Then open your notebook and run the cells.
+Then open `pbmc3k.ipynb` notebook and run the cells.
