@@ -1,5 +1,5 @@
 wheel
 jupyter
-scanpy == 1.9.3
+scanpy[leiden]==1.9.3
 
 
