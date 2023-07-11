@@ -1,8 +1,17 @@
 # ScanPy Setup and Tutorial
-Clone repo
 
-Ensure you have python 3.6 or higher installed. Setup your virtual environment using anaconda or python.
+## Prerequisites
 
+- [Python](https://www.python.org/downloads/) or Anaconda
+- Download the zip file of this repository and extract it to a folder.
+- Code Editor (VS Code, Sublime Text, Atom, etc.). Download VS Code [here](https://code.visualstudio.com/download)
+  
+## Setup
+
+- Open the folder in the code editor you downloaded.
+- Open the terminal in the code editor.
+- Paste the commands below in the terminal.
+  
 ```
 conda create env
 conda activate env
